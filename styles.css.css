@@ -1,0 +1,158 @@
+body{
+    background-color: rgb(74, 109, 114);
+}
+
+.text{
+   font-family:  'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+ background: url(https://i.pinimg.com/236x/18/89/bc/1889bcd297f634c2afefd06fc8e0b0f3.jpg);
+ background-size: 70px;
+  width:fit-content;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+font-style: oblique;
+
+}
+
+header{
+    background-color: black;
+    border-radius: 0 50px 0 50px;
+    box-shadow: 5px 5px 20px skyblue;
+}
+
+p{
+
+    font-size: 35px;
+    color: white;
+    font-style: italic;
+    text-shadow: 4px 4px 15px black;
+}
+
+h2{
+
+font-size: 38px;
+color: rgb(215, 222, 228);
+font-style: oblique;
+text-shadow: 5px 5px 6px black;
+}
+
+.container1{
+
+display: flex;
+justify-content: end;
+justify-content: space-around;
+}
+
+.sf{
+
+    border: solid black 6px;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.sf:hover{
+
+height: 380px;
+width: 380px;
+}
+
+.container2{
+
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+
+}
+
+.lb{
+
+    border: solid black 6px;
+    border-radius: 50px;
+transition: 1s;
+}
+
+.lb:hover{
+
+    height: 380px;
+width: 380px;
+}
+
+.container3{
+
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+
+}
+
+.at{
+
+    border: solid black 6px;
+    border-radius: 50px; 
+    transition: 1s;
+}
+
+.at:hover{
+
+    height: 380px;
+width: 380px;
+}
+
+.container4{
+
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+
+
+}
+
+.mc{
+
+    border: solid black 6px;
+    border-radius: 50px; 
+    transition: 1s;
+}
+
+.mc:hover{
+
+    height: 380px;
+    width: 380px;
+}
+
+.container5{
+
+    display: flex;
+    justify-content: end;
+    justify-content: space-around;
+}
+
+.pb{
+
+    border: solid black 6px;
+    border-radius: 50px; 
+    transition: 1s;   
+}
+
+.pb:hover{
+
+    height: 380px;
+    width: 380px;   
+}
+
+.fot{
+
+    font-style: oblique;
+    font-size: 40px;
+    color: antiquewhite;
+    background-color: blue;
+
+}
+
+
+
+
+
